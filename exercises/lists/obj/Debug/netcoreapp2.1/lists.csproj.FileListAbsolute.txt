@@ -2,3 +2,10 @@ C:\Users\Raf\workspace\csharp\exercises\lists\obj\Debug\netcoreapp2.1\lists.cspr
 C:\Users\Raf\workspace\csharp\exercises\lists\obj\Debug\netcoreapp2.1\lists.csproj.CoreCompileInputs.cache
 C:\Users\Raf\workspace\csharp\exercises\lists\obj\Debug\netcoreapp2.1\lists.AssemblyInfoInputs.cache
 C:\Users\Raf\workspace\csharp\exercises\lists\obj\Debug\netcoreapp2.1\lists.AssemblyInfo.cs
+C:\Users\Raf\workspace\csharp\exercises\lists\bin\Debug\netcoreapp2.1\lists.deps.json
+C:\Users\Raf\workspace\csharp\exercises\lists\bin\Debug\netcoreapp2.1\lists.runtimeconfig.json
+C:\Users\Raf\workspace\csharp\exercises\lists\bin\Debug\netcoreapp2.1\lists.runtimeconfig.dev.json
+C:\Users\Raf\workspace\csharp\exercises\lists\bin\Debug\netcoreapp2.1\lists.dll
+C:\Users\Raf\workspace\csharp\exercises\lists\bin\Debug\netcoreapp2.1\lists.pdb
+C:\Users\Raf\workspace\csharp\exercises\lists\obj\Debug\netcoreapp2.1\lists.dll
+C:\Users\Raf\workspace\csharp\exercises\lists\obj\Debug\netcoreapp2.1\lists.pdb
